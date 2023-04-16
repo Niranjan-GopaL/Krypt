@@ -1,5 +1,5 @@
 <--------------------------------------------------------------------------------------------------------------->
-BLOG
+PROJECT LOGS
 
 1)  client and smart_contract
 
@@ -19,7 +19,9 @@ BLOG
 7)  installing react-icons ethers as dependencies
     ethers   <---- How you will interact with smart contract
 
+8)  configured vite for auto start
 
+9)  PROBLEM IS TAILWIND IS NOT BEING used <------- this is the case
 
 
 SMART CONTRACT----------------------------------
